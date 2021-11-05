@@ -123,8 +123,12 @@ The purpose of the project is to analyze the green stocks volume in
     End Sub
 
   ### :open_hands: The time 
-  -  The code ran in 0.1210938 seconds for the year 2017
-  -  The code ran in 0.1098633 seconds for the year 2018
+  - This code ran in 0.1088867 seconds for the year 2017
+    
+    ![](https://user-images.githubusercontent.com/64121596/140462738-e465f6a0-d36a-494a-8673-07b457accf95.png)
+  - This code ran in 0.1171875 seconds for the year 2018
+   
+   ![](https://user-images.githubusercontent.com/64121596/140462772-1b65c94c-c0e9-402c-8798-7aa4105be70c.png)
  
 ## :spiral_notepad: Summary
 - Detailed statement of refactoring code in general
