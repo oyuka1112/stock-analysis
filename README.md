@@ -1,6 +1,10 @@
 # Stock Analysis
 ## :spiral_notepad: Overview of Project
-The purpose of the project is to analyze the green stocks volume in 
+  ### Background
+The purpose of the project is to analyze the green stocks volume in 2018 and 2017. They thought that the volume of the stocks reflects the price. So, they asked me to add each stock's volume in a given year. I added it using Visual Basic Application (VBA) macros. 
+  ### Purpose
+  The purpose is to find the total volume and Return for each stock. Return of the stock is calculated by ending prices difference of the year. For each stock, finding the volumes and the yearly return using VBA macro codes. 
+
 ## :spiral_notepad: Results
   ### :open_hands: Code
   
@@ -132,6 +136,6 @@ The purpose of the project is to analyze the green stocks volume in
  
 ## :spiral_notepad: Summary
 - Detailed statement of refactoring code in general
-    -   
+    -  The refactored code is more efficient and broad way to analyze with 2 sheets and 12 stocks. 
 - Detailed statement of the original VBA code
-    - 
+    - It was only able to analyze it for 1 stock and 1 sheet at a time.
